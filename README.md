@@ -18,7 +18,7 @@
   <a href="https://www.leetcode.com/muano556" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
   </a>
-  <a href="[https://www.hackerearth.com/muanomasiagwala2021@gmail.com](https://www.hackerrank.com/profile/muanomasiagwala1" target="_blank">
+  <a href="https://www.hackerrank.com/profile/muanomasiagwala1" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/muano-m-5b554a255/" target="_blank">
