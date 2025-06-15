@@ -1,81 +1,78 @@
-# 👋🏽 Hi, I'm Muano Masiagwala
+<h1 align="center">Hi 👋, I'm Muano</h1>
+<h3 align="center">A passionate Software Developer from South Africa 🇿🇦</h3>
 
-🎓 Computer Science Graduate | 💻 Full-Stack Developer | 📍 Johannesburg, South Africa  
-📧 muanomasiagwala2021@gmail.com | 📱 068 429 8585
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=the-human-who-codes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-[🌐 Portfolio](https://muanomasiagwala-d678d.web.app) | [💼 LinkedIn](https://www.linkedin.com/in/muano-m-5b554a255) | [💻 GitHub](https://github.com/the-human-who-codes)
-
----
-
-## 🚀 About Me
-
-I’m a **Computer Science graduate** from the University of the Witwatersrand who’s passionate about using technology to solve real-world problems—especially those that impact underserved communities.
-
-From building a **smart digital health system** to managing events for students, my work is rooted in purpose and practicality. I enjoy working across the stack and love clean, scalable, and impactful code.
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=the-human-who-codes&theme=algolia&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
-## 🧠 Skills Snapshot
-
-**Languages:**  
-JavaScript, TypeScript, Python, Java, C++, SQL
-
-**Frontend:**  
-React, HTML5, CSS, Tailwind CSS
-
-**Backend:**  
-Node.js, Express.js, Firebase Functions, REST APIs
-
-**Databases:**  
-Firestore, MySQL, SQL Server
-
-**Tools & DevOps:**  
-Git, GitHub Actions, Swagger, CI/CD, Agile
-
-**Data & AI:**  
-Pandas, NumPy, Scikit-learn, TensorFlow (basic), Data Visualization
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.leetcode.com/muano556" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerearth.com/muanomasiagwala2021@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/muano-m-5b554a255/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:muanomasiagwala2021@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
-## 📌 Featured Projects
+### 🛠️ Languages and Tools
 
-### 🔹 [CureCloud](https://github.com/the-human-who-codes/CureCloud)
-> A digital health management system to replace paper-based records in public hospitals.  
-Built with **React**, **Firebase**, **Express.js**, and **Firestore**.
+<p align="left">
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 
-- Patient record centralization
-- Specialist booking system
-- Cloud-first, mobile-friendly design
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
 
-### 🔹 [Events & Activities App](https://github.com/the-human-who-codes/wits-lively-campus)
-> A platform for Wits students to discover and engage with campus events.  
-Built with **React**, **Firebase**, and **Node.js**.
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
 
-- Notifications with badge count 🔔
-- Event like/unlike and file upload features
-- CI/CD with GitHub Actions
-
-### 🔹 [Funding Request Manager](https://github.com/the-human-who-codes/Funding-Request-Manager)
-> A tool for students to apply for funding and sponsorships.  
-Built with **Vanilla JS**, **HTML**, and **CSS**.
-
-- Frontend/backend logic for applications
-- Profile management UI
-
----
-
-## 🏆 Achievements
-
-- 🥇 Built the **top Sudoku Solver** in a university coding competition  
-- 🐍 Developed the **smartest Snake AI Agent** that outperformed peers in simulations  
-- ✅ Completed **Microsoft AZ-900** Cloud Fundamentals Certification (May 2025)
+  <!-- DevOps / Tools -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+</p>
 
 ---
 
-## 🎯 Looking For
+### 📊 GitHub Stats
 
-I'm currently open to **junior software developer roles**, internship opportunities, and meaningful collaborations. If you’re building something exciting—let’s connect!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=the-human-who-codes&show_icons=true&theme=tokyonight" alt="Muano's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-human-who-codes&layout=compact&theme=tokyonight" alt="Muano's Top Languages" />
+</p>
 
 ---
 
-> “Start where you are. Use what you have. Do what you can.” – Arthur Ashe
+> *“Start where you are. Use what you have. Do what you can.” – Arthur Ashe*
